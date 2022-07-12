@@ -1,0 +1,49 @@
+.Registrationform{
+    margin:auto;
+    padding-top: 50px;
+    width:360px;
+     
+}
+
+.Registrationform > label {
+ 
+    font-weight: bold;
+    display: flex;
+    margin-bottom: 10px;
+   
+    font-size: 18px;
+  }
+  
+  .Registrationform > input  {
+   margin-bottom: 10px;
+    font-weight: bold;
+    display: inline-flex;
+    margin-right: 20px;
+    border-radius: 6px;
+    outline:none;
+    border: none;
+    border: 1px solid #1E90FF;
+   
+  }
+
+
+  .Registrationform > button{
+    margin-top: 10px;
+    width: 425px;
+    height: 35px;
+    border-radius: 6px;
+    outline:none;
+    border: none;
+    border: 1px solid #1E90FF;
+    background-color: #1E90FF;
+    color: white;
+    font-size: 18px;
+
+  }
+
+  h1{
+    margin-top: 50px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
